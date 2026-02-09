@@ -1,4 +1,4 @@
-# Sales Performance Dashboard to Identify Revenue Growth Opportunities in an organization
+# Sales Performance Dashboard to Identify Revenue Growth Opportunities for an ecommerce business
 
 ## Business Problem / Objective
 
