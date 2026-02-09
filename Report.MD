@@ -62,7 +62,7 @@ This project was designed to answer the core question:
 - Quarter
 - HalfMonth
 
-#Data Modelling
+# Data Modelling
 - All the Tables are connected to the fact table to establish a strong relationship for easy analysis
 
 ![My Image Description](https://github.com/R887645/Sales-Performance-and-Insights-Analysis/blob/main/SALES_Data%20modelling.png?raw=true)
