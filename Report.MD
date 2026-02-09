@@ -110,6 +110,8 @@ This project was designed to answer the core question:
 - The **Northeast region showed weaker performance**, indicating potential operational or market challenges.  
 - The **top 5 customers generated more than 20% of total revenue**, showing significant customer concentration.
 
+**[View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTIwNzZmYjAtY2FiOS00ZTQ4LTg0ZmEtYTZjZDNiMDY0YjcwIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+
 ## Recommendations
 
 1. Try to focus marketing and promotions on high-performing products such as Chocolate Truffle and Nougat.  
