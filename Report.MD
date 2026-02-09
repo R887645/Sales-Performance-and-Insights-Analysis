@@ -1,4 +1,4 @@
-# Sales Performance Dashboard to Identify Revenue Growth Opportunities for an ecommerce business
+# Sales Performance Dashboard to Identify Revenue Growth Opportunities for an e-commerce business
 
 ## Business Problem / Objective
 
@@ -170,6 +170,8 @@ This project significantly improved my Power BI skills, including:
 - Understanding the flow from raw data to actionable insights  
 - Storytelling with data for business decision-making  
 - Planning and designing dashboards effectively through wireframes in PowerPoint
+
+![My Image Description](https://github.com/R887645/Sales-Performance-and-Insights-Analysis/blob/main/Slicer%20and%20reset%20bookmarks_sales.png?raw=true)
 
 ## Challenges Faced
 
